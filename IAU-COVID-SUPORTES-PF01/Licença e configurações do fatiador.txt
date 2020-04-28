@@ -1,0 +1,25 @@
+Este modelo foi desenvolvido pelo pesquisador Rodrigo Scheeren no Instituto de Arquitetura e Urbanismo da Universidade de São Paulo.
+
+Este projeto está licenciado com uma Licença Creative Commons [CC BY-NC 4.0 licença]. Não é permitido uso comercial.
+
+Configurações fatiador (padrão perfil CURA, bico 0.4):
+
+Layer height: 0.25
+Initial layer height: 0.25
+Line width: 0.5
+Skirt/brim line width: 0.6
+
+Wall line count: 3
+Optimize wall printer order
+
+Infill: 0
+
+Print speed: 75-80 mm/s
+Initial layer print speed: 30 mm/s
+Skirt/brim speed: 30 mm/s
+
+Build plate adhesion type: brim
+Brim line count: 3-4
+
+Tempo estimado de impressão: 50 minutos
+Material estimado para a impressão: 19 gramas
