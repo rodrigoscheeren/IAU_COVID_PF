@@ -1,8 +1,8 @@
-Este modelo foi desenvolvido pelo pesquisador Rodrigo Scheeren no Instituto de Arquitetura e Urbanismo da Universidade de S„o Paulo.
+Este modelo foi desenvolvido pelo pesquisador Rodrigo Scheeren no Instituto de Arquitetura e Urbanismo da Universidade de S√£o Paulo.
 
-Este projeto est· licenciado com uma LicenÁa Creative Commons [CC BY-NC 4.0 licenÁa]. N„o È permitido uso comercial.
+Este projeto est√° licenciado com uma Licen√ßa Creative Commons [CC BY-NC 4.0 licen√ßa]. N√£o √© permitido uso comercial.
 
-ConfiguraÁıes fatiador (padr„o perfil CURA, bico 0.4):
+Configura√ß√µes fatiador (padr√£o perfil CURA, bico 0.4, material ABS ou PETG):
 
 Layer height: 0.25
 Initial layer height: 0.25
@@ -20,6 +20,7 @@ Skirt/brim speed: 30 mm/s
 
 Build plate adhesion type: brim
 Brim line count: 3-4
+Brim em ambos os lados
 
-Tempo estimado de impress„o: 50 minutos
-Material estimado para a impress„o: 19 gramas
+Tempo estimado de impress√£o: 50 minutos
+Material estimado para a impress√£o: 19 gramas
