@@ -4,6 +4,8 @@ Este projeto está licenciado com uma Licença Creative Commons [CC BY-NC 4.0 li
 
 Configurações fatiador (padrão perfil CURA, bico 0.4, material ABS ou PETG):
 
+Zprobe: -0.4 (para aderência da primeira camada)
+
 Layer height: 0.25
 Initial layer height: 0.25
 Line width: 0.5
@@ -19,7 +21,7 @@ Initial layer print speed: 30 mm/s
 Skirt/brim speed: 30 mm/s
 
 Build plate adhesion type: brim
-Brim line count: 3-4
+Brim line count: 2-4
 Brim em ambos os lados
 
 Tempo estimado de impressão: 50 minutos
