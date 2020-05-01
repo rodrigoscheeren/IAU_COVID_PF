@@ -20,6 +20,8 @@ Print speed: 75-80 mm/s
 Initial layer print speed: 30 mm/s
 Skirt/brim speed: 30 mm/s
 
+Retraction: 1mm
+
 Build plate adhesion type: brim
 Brim line count: 2-4
 Brim em ambos os lados
