@@ -17,8 +17,8 @@ Optimize wall printer order
 Infill: 0
 
 Print speed: 75-80 mm/s
-Initial layer print speed: 30 mm/s
-Skirt/brim speed: 30 mm/s
+Initial layer print speed: 30-35 mm/s
+Skirt/brim speed: 30-35 mm/s
 
 Retraction: 1mm
 
